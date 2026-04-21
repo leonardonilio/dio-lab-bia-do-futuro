@@ -1,0 +1,18 @@
+{
+  "metas": {
+    "formula": "valor_meta / meses",
+    "descricao": "Para estimar o valor mensal necessário para alcançar uma meta."
+  },
+  "parcelamento": {
+    "formula": "valor_total / parcelas",
+    "descricao": "Parcelamento sem juros. Caso haja juros, usar cálculo de juros simples."
+  },
+  "juros_simples": {
+    "formula": "valor * (1 + taxa * tempo)",
+    "descricao": "Cálculo padrão de juros simples para estimar crescimento ou dívida."
+  },
+  "juros_compostos": {
+    "formula": "valor * (1 + taxa) ** tempo",
+    "descricao": "Caso necessário, usar juros compostos para simulações mais realistas."
+  }
+}

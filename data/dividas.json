@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "tipo": "cartao_credito",
+    "descricao": "Fatura do cartão de crédito",
+    "valor_atual": 1820.50,
+    "juros_mensal": 0.13,
+    "dia_vencimento": 10
+  },
+  {
+    "id": 2,
+    "tipo": "emprestimo_pessoal",
+    "descricao": "Empréstimo pessoal",
+    "parcelas_restantes": 8,
+    "valor_parcela": 320.00,
+    "juros_total": 0.18
+  }
+]

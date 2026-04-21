@@ -24,12 +24,12 @@
     "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
   },
   {
-    "nome": "Fundo Multimercado",
+    "nome": "Fundo Imobiliário (FII)",
     "categoria": "fundo",
     "risco": "medio",
-    "rentabilidade": "CDI + 2%",
-    "aporte_minimo": 500.00,
-    "indicado_para": "Perfil moderado que busca diversificação"
+    "rentabilidade": "Dividend Yield (DY) costuma ficar entre 6% a 12% ao ano",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Perfil moderado que busca diversificação e renda recorrente mensal"
   },
   {
     "nome": "Fundo de Ações",
@@ -38,5 +38,21 @@
     "rentabilidade": "Variável",
     "aporte_minimo": 100.00,
     "indicado_para": "Perfil arrojado com foco no longo prazo"
-  }
+  },
+  {
+  "produtos_basicos": [
+    {
+      "nome": "Cartão de crédito",
+      "descricao": "Permite compras a prazo ou à vista, podendo gerar juros caso a fatura não seja paga totalmente."
+    },
+    {
+      "nome": "Conta digital",
+      "descricao": "Conta para movimentação diária: salário, pagamentos e transferências."
+    },
+    {
+      "nome": "Empréstimo pessoal",
+      "descricao": "Dinheiro emprestado com prazo e parcelas fixas, que geram juros ao longo do tempo."
+    }
+  ]
+}
 ]

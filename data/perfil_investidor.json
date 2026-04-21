@@ -19,5 +19,15 @@
       "valor_necessario": 50000.00,
       "prazo": "2027-12"
     }
-  ]
+  ],
+    "despesas_fixas_mensais": {
+    "moradia": 1380.00,
+    "alimentacao": 550.00,
+    "transporte": 300.00,
+    "internet": 120.00,
+    "energia": 180.00,
+    "agua": 70.00,
+    "telefonia": 49.90,
+    "academia": 89.90
+  }
 }
