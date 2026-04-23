@@ -2,28 +2,44 @@
 
 > [!TIP]
 > Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
- 
-## Roteiro Sugerido
 
-### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+## Estrutura do Pitch
 
-[Sua descrição aqui]
+| Tempo | Seção | O que falar |
+|-------|-------|-------------|
+| 0:00 - 0:30 | Problema | A dor financeira que o brasileiro enfrenta no dia a dia |
+| 0:30 - 1:30 | Solução | Como o Leofi orienta sem decidir |
+| 1:30 - 2:30 | Demo | Mostre o agente funcionando com dados reais |
+| 2:30 - 3:00 | Diferencial | Por que o Leofi é diferente de um chatbot genérico |
 
-### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
+---
 
-[Sua descrição aqui]
+## Roteiro do Leofi
 
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
+### 🎯 Problema (30 seg)
 
-[Descreva o que será mostrado]
+> "Mais de 70% dos brasileiros vivem no limite do orçamento — não porque ganham pouco, mas porque ninguém nunca ensinou a organizar. As ferramentas financeiras são frias, técnicas, e quem precisa de ajuda de verdade acaba sem saber por onde começar. O resultado? Dívidas crescendo, sem reserva, e metas que nunca saem do papel."
 
-### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
+### 💡 Solução (60 seg)
 
-[Sua descrição aqui]
+> "O Leofi é um assistente financeiro conversacional que usa linguagem natural para orientar o usuário na sua vida financeira. Ele não é um chatbot genérico — ele conhece sua renda, suas dívidas, suas despesas fixas e suas metas. Com isso, ele simula cenários reais: quanto tempo para completar a reserva de emergência, qual dívida priorizar, como os juros do cartão crescem se você não agir. O Leofi orienta, explica e simula — mas nunca decide por você, porque isso é papel de um consultor certificado."
+
+### 📱 Demo (60 seg)
+
+> [Compartilhe a tela e faça 3 perguntas ao Leofi]
+
+- **"Quanto tempo vou levar para completar minha reserva de emergência guardando R$ 500 por mês?"**
+  → Mostra a simulação com os dados reais do perfil do João
+
+- **"Tenho dívidas no cartão e um empréstimo. Por qual devo começar a pagar?"**
+  → Mostra a análise de dívidas e priorização com os juros reais do `dividas.json`
+
+- **"O que é Tesouro Selic?"**
+  → Mostra a explicação personalizada, conectando o produto ao objetivo de reserva de emergência do cliente
+
+### ✨ Diferencial (30 seg)
+
+> "Diferente de assistentes genéricos, o Leofi usa os dados reais do cliente — dívidas, despesas, metas — para transformar cada resposta em algo concreto e relevante. Ele calcula sua margem disponível automaticamente antes de qualquer pergunta. Roda 100% local com Ollama, sem enviar seus dados para nenhuma API externa. E foi construído com estratégias de anti-alucinação documentadas e testadas: quando não sabe, ele admite. Quando não pode recomendar, ele explica o motivo e educa."
 
 ---
 
